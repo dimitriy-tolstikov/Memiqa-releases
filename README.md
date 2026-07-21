@@ -6,6 +6,8 @@
 
 This repository contains the official desktop app releases. Download the latest version from the [Releases page](https://github.com/dimitriy-tolstikov/Memiqa-releases/releases/latest).
 
+![Memiqa start page](screenshots/screenshot-home-en.png)
+
 ## What you can do with Memiqa
 
 - **Create your own object types.** Characters, cities, guilds, magic systems — define the kinds of things your world consists of, with custom attributes and colors for each type.
@@ -16,6 +18,8 @@ This repository contains the official desktop app releases. Download the latest 
 - **Never lose context.** Change history lets you look back at how a record evolved.
 - **Work in your language.** The interface is available in English and Russian.
 - **Stay offline.** The desktop app stores all your data locally on your machine — no account on someone else's server, no internet required.
+
+![Memiqa records page with sample data](screenshots/screenshot-data-en.png)
 
 ## Download and install
 
@@ -59,6 +63,8 @@ Found a bug or have an idea? Open an [issue](https://github.com/dimitriy-tolstik
 
 В этом репозитории публикуются официальные сборки десктопного приложения. Скачать последнюю версию можно на [странице релизов](https://github.com/dimitriy-tolstikov/Memiqa-releases/releases/latest).
 
+![Стартовая страница Memiqa](screenshots/screenshot-home-ru.png)
+
 ## Возможности Memiqa
 
 - **Свои типы объектов.** Персонажи, города, гильдии, магические системы — определяйте виды сущностей вашего мира с собственными атрибутами и цветами.
@@ -69,6 +75,8 @@ Found a bug or have an idea? Open an [issue](https://github.com/dimitriy-tolstik
 - **История изменений.** Всегда можно посмотреть, как менялась запись.
 - **Интерфейс на русском и английском.**
 - **Работа офлайн.** Десктопное приложение хранит все данные локально на вашем компьютере — без аккаунта на чужом сервере и без интернета.
+
+![Страница записей Memiqa с примером данных](screenshots/screenshot-data-ru.png)
 
 ## Скачать и установить
 
