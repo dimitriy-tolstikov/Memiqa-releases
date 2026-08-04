@@ -6,7 +6,10 @@
 
 This repository contains the official desktop app releases. Download the latest version from the [Releases page](https://github.com/dimitriy-tolstikov/Memiqa-releases/releases/latest).
 
-![Memiqa start page](screenshots/screenshot-home-en.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="screenshots/wikibase-home-dark-en.webp">
+  <img alt="Memiqa home page" src="screenshots/wikibase-home-light-en.webp">
+</picture>
 
 ## What you can do with Memiqa
 
@@ -17,9 +20,13 @@ This repository contains the official desktop app releases. Download the latest 
 - **Keep favorites at hand.** Pin important records to the menu for one-click access.
 - **Never lose context.** Change history lets you look back at how a record evolved.
 - **Work in your language.** The interface is available in English and Russian.
+- **Easy on the eyes.** Light and dark themes — pick one in the header or let it follow your system setting.
 - **Stay offline.** The desktop app stores all your data locally on your machine — no account on someone else's server, no internet required.
 
-![Memiqa records page with sample data](screenshots/screenshot-data-en.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="screenshots/wikibase-record-dark-en.webp">
+  <img alt="Memiqa records page with sample data" src="screenshots/wikibase-record-light-en.webp">
+</picture>
 
 ## Download and install
 
@@ -63,7 +70,10 @@ Found a bug or have an idea? Open an [issue](https://github.com/dimitriy-tolstik
 
 В этом репозитории публикуются официальные сборки десктопного приложения. Скачать последнюю версию можно на [странице релизов](https://github.com/dimitriy-tolstikov/Memiqa-releases/releases/latest).
 
-![Стартовая страница Memiqa](screenshots/screenshot-home-ru.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="screenshots/wikibase-home-dark-ru.webp">
+  <img alt="Домашняя страница Memiqa" src="screenshots/wikibase-home-light-ru.webp">
+</picture>
 
 ## Возможности Memiqa
 
@@ -74,9 +84,13 @@ Found a bug or have an idea? Open an [issue](https://github.com/dimitriy-tolstik
 - **Избранное под рукой.** Закрепляйте важные записи в меню для доступа в один клик.
 - **История изменений.** Всегда можно посмотреть, как менялась запись.
 - **Интерфейс на русском и английском.**
+- **Светлая и тёмная темы.** Выберите тему в шапке приложения или доверьтесь системной настройке.
 - **Работа офлайн.** Десктопное приложение хранит все данные локально на вашем компьютере — без аккаунта на чужом сервере и без интернета.
 
-![Страница записей Memiqa с примером данных](screenshots/screenshot-data-ru.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="screenshots/wikibase-record-dark-ru.webp">
+  <img alt="Страница записей Memiqa с примером данных" src="screenshots/wikibase-record-light-ru.webp">
+</picture>
 
 ## Скачать и установить
 
